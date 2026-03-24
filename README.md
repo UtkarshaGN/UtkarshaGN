@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsha here</h1><br>
 <h3 align="center">Front End Developer sharing about my journey and learnings in tech <br></h3><br>
 
-- 🌱 I’m currently learning **Back end development**
+- 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **with other Developers worldwide**
 
