@@ -1,12 +1,12 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshagn&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshagn" /> </p>
-<h1 align="center">Hi 👋, I'm Utkarsha here</h1><br>
+<h1 align="center">Hi 👋, I'm Utkarsha Naik here</h1><br>
 <h3 align="center">Front End Developer sharing about my journey and learnings in tech <br></h3><br>
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👯 I’m looking to collaborate on **with other Developers worldwide**
+- 👯 I’m looking to collaborate on **with other Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UtkarshaGN](https://github.com/UtkarshaGN)
 
