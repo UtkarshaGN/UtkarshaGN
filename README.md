@@ -1,7 +1,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshagn&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshagn" /> </p>
-<h1 align="center">Hi 👋, I'm Utkarsha here</h1><br>
+<h1 align="center">Hi 👋, I'm Utkarsha Naik here</h1><br>
 <h3 align="center">Front End Developer sharing about my journey and learnings in tech <br></h3><br>
 
 - 🌱 Front End Engineer with hands-on experience in React.js, JavaScript,CSS, HTML, Tailwind CSS, Git, AWS, Bootstrap, JQuery . I’m currently learning ** Next.js**
