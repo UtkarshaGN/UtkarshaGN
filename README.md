@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsha </h1><br>
 <h3 align="center">Front end Developer sharing about my journey and learnings in tech <br></h3><br>
 
-- 🌱 Front End Engineer with hands-on experience in React.js, JavaScript,CSS3, HTML5, Tailwind CSS, Git, AWS, Bootstrap, JQuery . I’m currently learning ** Next.js**
+- 🌱 Front End Engineer with hands-on experience in React.js, JavaScript,CSS3, HTML5, Tailwind CSS, Git, AWS . I’m currently learning ** Next.js**
 
 - 👯 I’m looking to collaborate **with other Developers and designers**
 
