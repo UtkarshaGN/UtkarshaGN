@@ -6,7 +6,7 @@
 
 - 🌱 Front End Engineer with hands-on experience in React.js, JavaScript (ES6), CSS3, HTML5, Tailwind CSS, Git, AWS . I’m currently learning ** Next.js and TypeScript**
 
-- 👯 I’m looking to collaborate **with other Developers and designers**
+- 👯 I’m looking to collaborate **with other Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UtkarshaGN](https://github.com/UtkarshaGN)
 
