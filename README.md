@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UtkarshaGN](https://github.com/UtkarshaGN)
 
-- 💬 Ask me about **Front end web development and full stack development**
+- 💬 Ask me about **Front end development and full stack development**
 
 - 📫 How to reach me **utkarsha.gajanan@gmail.com**
 
